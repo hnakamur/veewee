@@ -1,0 +1,6 @@
+[submodule "vagrantfiles"]
+	path = vagrantfiles
+	url = https://github.com/hnakamur/my-vagrantfiles.git
+[submodule "definitions"]
+	path = definitions
+	url = https://github.com/hnakamur/my-veewee-definitions.git
